@@ -22,9 +22,9 @@
 
 lecture notes:
 
-- [[Stuff you should know about CS144](..week1/week-1-logistics.pdf) ]
-- [How the Internet works](./week1/week-1-how-the-internet-works.pdf)
-- [Reliability](./week1/week-1-reliability.pdf)
+- [[Stuff you should know about CS144](https://github.com/pilotou/CS144/blob/master/week1/week-1-logistics.pdf) ]
+- [How the Internet works](https://github.com/pilotou/CS144/blob/master/week1/week-1-how-the-internet-works.pdf)
+- [Reliability](https://github.com/pilotou/CS144/blob/master/week1/week-1-reliability.pdf)
 
 ### week2
 
@@ -32,7 +32,7 @@ lecture notes:
 
 lecture notes:
 
-- [TCP](./week2/week-2-tcp.pdf)
+- [TCP](https://github.com/pilotou/CS144/blob/master/week2/week-2-tcp.pdf)
 
 ### week3
 
