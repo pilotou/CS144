@@ -6,3 +6,44 @@
 
 # 内容
 
+### Syllabus:
+
+简单归纳一下Syllabus的信息：
+
+1. 这门课的作业要用到C++
+2. 这门课通过线下讲座和线上视频来教授(非本校学生看不到视频)。
+3. 这门课由8个lab，lab0~lab7
+4. 这门课**可选**的教材是 Kurose and Ross, Computer Networking: A Top Down Approach, 8th
+   edition (第7th版也可以。中文版叫计算机网络：自上而下方法)。这门课**不会布置**这本书的阅读，但是这本教材是一个很好的补充和参考资料
+
+### week1
+
+主题：Introduction to the class
+
+lecture notes:
+
+- [[Stuff you should know about CS144](..week1/week-1-logistics.pdf) ]
+- [How the Internet works](./week1/week-1-how-the-internet-works.pdf)
+- [Reliability](./week1/week-1-reliability.pdf)
+
+### week2
+
+主题：The Internet and IP
+
+lecture notes:
+
+- [TCP](./week2/week-2-tcp.pdf)
+
+### week3
+
+### week4
+
+### week5
+
+### week6 
+
+### week7
+
+### week8
+
+### week9
