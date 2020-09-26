@@ -6,7 +6,7 @@
 
 # 内容
 
-### Syllabus:
+### [Syllabus](https://github.com/pilotou/CS144/blob/master/Syllabus.pdf):
 
 简单归纳一下Syllabus的信息：
 
